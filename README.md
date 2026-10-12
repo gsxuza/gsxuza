@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=1848B8&center=true&vCenter=true&width=600&lines=Hey%2C+eu+sou+o+Guilherme+%F0%9F%91%8B;Dev+JS+%2F+Node.js;CLT+de+dia.+C%C3%B3digo+de+noite." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=1848B8&center=true&vCenter=true&width=600&lines=Hey%2C+eu+sou+o+Guilherme+%F0%9F%91%8B;Dev+JS+%2F+Node.js+%2F+TypeScript;CLT+de+dia.+C%C3%B3digo+de+noite." alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20projects-4ADE80?style=flat-square&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/Local-Guarulhos%2C%20SP-1848B8?style=flat-square&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/Stack-JavaScript%20%C2%B7%20Node.js-F7DF1E?style=flat-square&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Stack-JS%20%C2%B7%20Node.js%20%C2%B7%20TypeScript-F7DF1E?style=flat-square&labelColor=0D0D0D" />
 
 </div>
 
@@ -26,14 +26,14 @@ Atualmente construindo **ATLAS**, uma ferramenta de IA com RAG pra auxiliar mec�
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,python,fastapi,sqlite,github&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,python,fastapi,sqlite,github&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
 |  | Tecnologias |
 |---|---|
 | **Back-end** | Node.js · Express · Python · FastAPI · REST API |
-| **Front-end** | JavaScript · React · HTML · CSS |
+| **Front-end** | JavaScript · TypeScript · React · HTML · CSS |
 | **Banco de dados** | SQLite · PostgreSQL |
 | **Integrações** | Mercado Livre API · Claude API · OAuth 2.0 |
 | **Deploy** | Railway · GitHub Pages · Vercel |
@@ -47,7 +47,8 @@ Atualmente construindo **ATLAS**, uma ferramenta de IA com RAG pra auxiliar mec�
 
 [![rose-artesanatos](https://github-readme-stats.vercel.app/api/pin/?username=gsxuza&repo=rose-artesanatos-sistema&theme=dark&bg_color=0D0D0D&border_color=1C1C1C&title_color=1848B8&icon_color=1848B8&text_color=AAAAAA)](https://github.com/gsxuza/rose-artesanatos-sistema)
 [![lifeos-rpg](https://github-readme-stats.vercel.app/api/pin/?username=gsxuza&repo=lifeos-rpg-do-desenvolvimento&theme=dark&bg_color=0D0D0D&border_color=1C1C1C&title_color=1848B8&icon_color=1848B8&text_color=AAAAAA)](https://github.com/gsxuza/lifeos-rpg-do-desenvolvimento)
-[![consumiveis](https://github-readme-stats.vercel.app/api/pin/?username=gsxuza&repo=Controle-consumiveis-&theme=dark&bg_color=0D0D0D&border_color=1C1C1C&title_color=1848B8&icon_color=1848B8&text_color=AAAAAA)](https://github.com/gsxuza/Controle-consumiveis-)
+[![psicologia-acolhedora](https://github-readme-stats.vercel.app/api/pin/?username=gsxuza&repo=psicologia-acolhedora&theme=dark&bg_color=0D0D0D&border_color=1C1C1C&title_color=1848B8&icon_color=1848B8&text_color=AAAAAA)](https://github.com/gsxuza/psicologia-acolhedora)
+[![jogo-do-tatu](https://github-readme-stats.vercel.app/api/pin/?username=gsxuza&repo=jogo-do-tatu&theme=dark&bg_color=0D0D0D&border_color=1C1C1C&title_color=1848B8&icon_color=1848B8&text_color=AAAAAA)](https://github.com/gsxuza/jogo-do-tatu)
 
 </div>
 
@@ -96,5 +97,5 @@ ATLAS — Assistente de IA para mecânicos industriais
 ---
 
 <div align="center">
-<sub>Dev JS/Node.js · PCM de dia, código de noite · Guarulhos, SP 🇧🇷</sub>
+<sub>Dev JS · Node.js · TypeScript · PCM de dia, código de noite · Guarulhos, SP 🇧🇷</sub>
 </div>
