@@ -4,30 +4,26 @@ Quadro geral de todos os repositórios. Atualizado em **25/11/2026**.
 
 | 📥 Backlog | 🚧 Em andamento | 🔍 Em revisão | ✅ Concluídas |
 |:---:|:---:|:---:|:---:|
-| [**36**](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20backlog%22%20is%3Aopen) | [**3**](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20em%20andamento%22%20is%3Aopen) | [**4**](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20em%20revis%C3%A3o%22%20is%3Aopen) | **44** entregas |
+| [**23**](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20backlog%22%20is%3Aopen) | [**2**](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20em%20andamento%22%20is%3Aopen) | [**4**](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20em%20revis%C3%A3o%22%20is%3Aopen) | **35** entregas |
 
-Cada cartão das três primeiras colunas é uma issue no repositório do projeto, com o label da coluna. Os números acima abrem a busca do GitHub com todas as issues daquela coluna.
+**Foco agora:** Psicologia Acolhedora, Scanner Peugeot 2008, Finance Time.
 
-**Para mover um cartão:** troque o label `status: …` da issue (e feche a issue quando terminar). Depois, atualize este arquivo.
+Cada cartão aberto é uma issue no repositório do projeto, com o label da coluna; os números acima abrem a busca do GitHub. **Para mover um cartão:** troque o label `status: …` da issue (e feche a issue quando terminar). O quadro visual fica no GitHub Project *Kanban dos projetos*.
 
-> As tarefas do Scanner Peugeot 2008 estão como issues **aqui no `gsxuza/gsxuza`**, com o prefixo `[Scanner]`, porque o repositório é do `szadil763` e não foi alterado.
+> As tarefas do Scanner Peugeot 2008 estão como issues aqui no `gsxuza/gsxuza`, com o prefixo `[Scanner]`, porque o repositório é do `szadil763`.
 
 ## Resumo por projeto
 
 | Projeto | 📥 | 🚧 | 🔍 | ✅ |
 |---|:---:|:---:|:---:|:---:|
-| [Scanner Peugeot 2008](https://github.com/szadil763/Scanner-virtual-peugeut-2008) | 7 | 1 | 2 | 14 |
-| [Psicologia Acolhedora](https://github.com/gsxuza/psicologia-acolhedora) | 14 | 1 | 1 | 9 |
+| **[Psicologia Acolhedora](https://github.com/gsxuza/psicologia-acolhedora)** | 14 | · | 1 | 10 |
+| **[Scanner Peugeot 2008](https://github.com/szadil763/Scanner-virtual-peugeut-2008)** | 7 | 1 | 2 | 12 |
+| **[Finance Time](https://github.com/gsxuza/finance-time)** | 1 | · | · | 3 |
 | ATLAS | · | 1 | · | · |
-| [Jogo do Tatu](https://github.com/gsxuza/jogo-do-tatu) | · | · | 1 | 2 |
-| [Prospecção de Clientes](https://github.com/gsxuza/prospec-o-clientes) | 4 | · | · | 1 |
-| [Finance Time](https://github.com/gsxuza/finance-time) | 1 | · | · | 4 |
-| [Rose Artesanatos](https://github.com/gsxuza/rose-artesanatos-sistema) | 2 | · | · | 5 |
-| [Ecos de Brumafria](https://github.com/gsxuza/ecos-de-brufumaria) | 6 | · | · | 1 |
-| [Bot Validação Pix](https://github.com/gsxuza/bot-validacao-pix) | 1 | · | · | · |
+| [Jogo do Tatu](https://github.com/gsxuza/jogo-do-tatu) | · | · | 1 | 1 |
+| [Ecos de Brumafria](https://github.com/gsxuza/ecos-de-brufumaria) | 1 | · | · | 1 |
 | [Medley Bot](https://github.com/gsxuza/medley-bot) | · | · | · | 1 |
 | [Solo Desk (Inventário)](https://github.com/gsxuza/invent-rio-solo) | · | · | · | 1 |
-| [Controle de Consumíveis](https://github.com/gsxuza/Controle-consumiveis-) | 1 | · | · | · |
 | [Coração, Lar e Propósito](https://github.com/gsxuza/coracao-lar-proposito) | · | · | · | 1 |
 | [LifeOS RPG](https://github.com/gsxuza/lifeos-rpg-do-desenvolvimento) | · | · | · | 1 |
 | [PizzariaFlow](https://github.com/gsxuza/pizzariaflow) | · | · | · | 1 |
@@ -38,14 +34,14 @@ Cada cartão das três primeiras colunas é uma issue no repositório do projeto
 
 _Pronto numa branch, esperando revisão ou merge._ [Ver no GitHub](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20em%20revis%C3%A3o%22%20is%3Aopen)
 
+### Psicologia Acolhedora
+
+- [ ] [Restringir as ações do painel à psicóloga](https://github.com/gsxuza/psicologia-acolhedora/issues/34) · `psicologia-acolhedora#34`
+
 ### Scanner Peugeot 2008
 
 - [ ] [Revisar as mudanças na identificação do carro pelo chassi (issue #2)](https://github.com/gsxuza/gsxuza/issues/1) · `gsxuza#1`
 - [ ] [README público com fotos e carrossel do LinkedIn (branch claude/optimistic-dirac-5eqpth)](https://github.com/gsxuza/gsxuza/issues/2) · `gsxuza#2`
-
-### Psicologia Acolhedora
-
-- [ ] [Mergear a branch claude/patient-area-s6wjxk (portal do paciente só por convite)](https://github.com/gsxuza/psicologia-acolhedora/issues/18) · `psicologia-acolhedora#18`
 
 ### Jogo do Tatu
 
@@ -59,27 +55,13 @@ _Começou e ainda não terminou._ [Ver no GitHub](https://github.com/issues?q=us
 
 - [ ] [Trocar a chave de assinatura do APK (chave 1 → chave 2)](https://github.com/gsxuza/gsxuza/issues/3) · `gsxuza#3`
 
-### Psicologia Acolhedora
-
-- [ ] [Corrigir o login do Clerk em produção](https://github.com/gsxuza/psicologia-acolhedora/issues/19) · `psicologia-acolhedora#19`
-
 ### ATLAS
 
 - [ ] [ATLAS: assistente de IA com RAG para mecânicos industriais](https://github.com/gsxuza/gsxuza/issues/4) · `gsxuza#4`
 
 ## 📥 Backlog
 
-_Levantado nos roadmaps, PRDs, listas de pendências e no código; ainda não começou._ [Ver no GitHub](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20backlog%22%20is%3Aopen)
-
-### Scanner Peugeot 2008
-
-- [ ] [Falhas fase 1: gravidade por código e registro com foto dos dados ao vivo](https://github.com/gsxuza/gsxuza/issues/5) · `gsxuza#5`
-- [ ] [Falhas fase 2: apagar falhas com confirmação dupla](https://github.com/gsxuza/gsxuza/issues/6) · `gsxuza#6`
-- [ ] [Exportar abastecimentos em CSV](https://github.com/gsxuza/gsxuza/issues/7) · `gsxuza#7`
-- [ ] [Custo por km com o preço do combustível](https://github.com/gsxuza/gsxuza/issues/8) · `gsxuza#8`
-- [ ] [Avisar quando o consumo médio cair muito](https://github.com/gsxuza/gsxuza/issues/9) · `gsxuza#9`
-- [ ] [Saúde: previsões por tendência](https://github.com/gsxuza/gsxuza/issues/10) · `gsxuza#10`
-- [ ] [Postos: cruzar a nota com o monitoramento de qualidade da ANP (PMQC)](https://github.com/gsxuza/gsxuza/issues/11) · `gsxuza#11`
+_Ainda não começou._ [Ver no GitHub](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20backlog%22%20is%3Aopen)
 
 ### Psicologia Acolhedora
 
@@ -98,95 +80,65 @@ _Levantado nos roadmaps, PRDs, listas de pendências e no código; ainda não co
 - [ ] [Documentar os design tokens (DESIGN.md)](https://github.com/gsxuza/psicologia-acolhedora/issues/32) · `psicologia-acolhedora#32`
 - [ ] [Ideias secundárias do brainstorm (termômetro e sala de espera)](https://github.com/gsxuza/psicologia-acolhedora/issues/33) · `psicologia-acolhedora#33`
 
-### Prospecção de Clientes
+### Scanner Peugeot 2008
 
-- [ ] [v0.2: registrar a variante escolhida em cada envio e recalibrar os pesos](https://github.com/gsxuza/prospec-o-clientes/issues/2) · `prospec-o-clientes#2`
-- [ ] [v0.3: cadência de follow-up (D+4, D+11)](https://github.com/gsxuza/prospec-o-clientes/issues/3) · `prospec-o-clientes#3`
-- [ ] [v1.0: decidir com dados se o canal principal continua DM frio ou vira inbound](https://github.com/gsxuza/prospec-o-clientes/issues/4) · `prospec-o-clientes#4`
-- [ ] [Trocar a branch padrão do repositório para main](https://github.com/gsxuza/prospec-o-clientes/issues/5) · `prospec-o-clientes#5`
+- [ ] [Falhas fase 1: gravidade por código e registro com foto dos dados ao vivo](https://github.com/gsxuza/gsxuza/issues/5) · `gsxuza#5`
+- [ ] [Falhas fase 2: apagar falhas com confirmação dupla](https://github.com/gsxuza/gsxuza/issues/6) · `gsxuza#6`
+- [ ] [Exportar abastecimentos em CSV](https://github.com/gsxuza/gsxuza/issues/7) · `gsxuza#7`
+- [ ] [Custo por km com o preço do combustível](https://github.com/gsxuza/gsxuza/issues/8) · `gsxuza#8`
+- [ ] [Avisar quando o consumo médio cair muito](https://github.com/gsxuza/gsxuza/issues/9) · `gsxuza#9`
+- [ ] [Saúde: previsões por tendência](https://github.com/gsxuza/gsxuza/issues/10) · `gsxuza#10`
+- [ ] [Postos: cruzar a nota com o monitoramento de qualidade da ANP (PMQC)](https://github.com/gsxuza/gsxuza/issues/11) · `gsxuza#11`
 
 ### Finance Time
 
 - [ ] [Trocar a branch padrão do repositório para main](https://github.com/gsxuza/finance-time/issues/1) · `finance-time#1`
 
-### Rose Artesanatos
-
-- [ ] [Validar a integração com o Mercado Livre na API real](https://github.com/gsxuza/rose-artesanatos-sistema/issues/1) · `rose-artesanatos-sistema#1`
-- [ ] [Definir o escopo da v2 ou arquivar o repositório](https://github.com/gsxuza/sistema-operacional-Rose-Artesanatos-v2/issues/1) · `sistema-operacional-Rose-Artesanatos-v2#1`
-
 ### Ecos de Brumafria
 
-- [ ] [Efeitos de status (veneno por turno, atordoamento)](https://github.com/gsxuza/ecos-de-brufumaria/issues/1) · `ecos-de-brufumaria#1`
-- [ ] [Batalhas em grupo](https://github.com/gsxuza/ecos-de-brufumaria/issues/2) · `ecos-de-brufumaria#2`
-- [ ] [Comércio entre jogadores](https://github.com/gsxuza/ecos-de-brufumaria/issues/3) · `ecos-de-brufumaria#3`
-- [ ] [Row-Level Security por jogador](https://github.com/gsxuza/ecos-de-brufumaria/issues/4) · `ecos-de-brufumaria#4`
-- [ ] [Eventos de mundo agendados com pg_cron](https://github.com/gsxuza/ecos-de-brufumaria/issues/5) · `ecos-de-brufumaria#5`
-- [ ] [Interface web escutando rpg_eventos (LISTEN/NOTIFY)](https://github.com/gsxuza/ecos-de-brufumaria/issues/6) · `ecos-de-brufumaria#6`
-
-### Bot Validação Pix
-
-- [ ] [Validar o comprovante Pix de verdade](https://github.com/gsxuza/bot-validacao-pix/issues/1) · `bot-validacao-pix#1`
-
-### Controle de Consumíveis
-
-- [ ] [Repositório vazio: usar, arquivar ou apagar](https://github.com/gsxuza/Controle-consumiveis-/issues/1) · `Controle-consumiveis-#1`
+- [ ] [Preparar o Ecos para portfólio](https://github.com/gsxuza/ecos-de-brufumaria/issues/7) · `ecos-de-brufumaria#7`
 
 ## ✅ Concluídas
 
-_Entregas tiradas dos PRs mergeados e do histórico de commits._ [PRs com o label no GitHub](https://github.com/issues?q=user%3Agsxuza%20label%3A%22status%3A%20conclu%C3%ADda%22)
-
-### Scanner Peugeot 2008
-
-- [x] Fase 0: protótipo com dados simulados, fórmulas OBD validadas e esqueleto Android
-- [x] Leitura real pelo adaptador ELM327 (Bluetooth/BLE), consumo por PID 5E, MAF ou MAP com calibração por abastecimentos
-- [x] Saúde do carro com gráficos e comparação antes/depois do abastecimento
-- [x] Troca de óleo por km e data; leitura de falhas confirmadas (modo 03) e pendentes (modo 07)
-- [x] Comando de voz (perguntas, pedidos, rota, rádio e música) com a palavra "Monitor" offline
-- [x] Aba Postos com ranking por rendimento do combustível
-- [x] Nuvem: todos os dados do carro sincronizados entre celulares
-- [x] Painel do multimídia (Combustível, Manutenção, Mapa) e Android Auto sem fio
-- [x] Identificação do carro pelo chassi (VIN): [#1](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/1), 11/11
-- [x] Fase 1, resiliência do painel e da nuvem: [#4](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/4), 19/11 ([#3](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/3) foi fechado, substituído pelo #4)
-- [x] Gráficos da Saúde voltam a aparecer no painel: [#5](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/5), 20/11
-- [x] Versão de transição da chave de assinatura: [#6](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/6), 20/11
-- [x] Registro de erros: motivo do fechamento na abertura seguinte, com envio pelo WhatsApp (21/11)
-- [x] Android Auto ao ligar: não retoma a rádio do multimídia e fica na frente (23/11)
+_Entregas tiradas dos PRs mergeados, das issues fechadas e do histórico de commits._
 
 ### Psicologia Acolhedora
 
-- [x] Migração do backend, UI/UX e animações: [#1](https://github.com/gsxuza/psicologia-acolhedora/pull/1)
-- [x] Correções de deploy, login e dashboard: [#2](https://github.com/gsxuza/psicologia-acolhedora/pull/2), [#3](https://github.com/gsxuza/psicologia-acolhedora/pull/3), [#5](https://github.com/gsxuza/psicologia-acolhedora/pull/5)
+- [x] Login próprio com Better Auth (sem depender de domínio) e acesso do paciente por convite enviado pelo WhatsApp: [#19](https://github.com/gsxuza/psicologia-acolhedora/issues/19), 25/11
+- [x] Protótipos de botões interativos na landing: [#17](https://github.com/gsxuza/psicologia-acolhedora/pull/17), 17/10
+- [x] Logo da marca, favicon e ícone da Apple: [#15](https://github.com/gsxuza/psicologia-acolhedora/pull/15), [#16](https://github.com/gsxuza/psicologia-acolhedora/pull/16)
+- [x] Correções de segurança e integridade de dados: [#14](https://github.com/gsxuza/psicologia-acolhedora/pull/14)
+- [x] Área do paciente: portal, termômetro no dashboard, excluir paciente, lembrete por WhatsApp: [#13](https://github.com/gsxuza/psicologia-acolhedora/pull/13)
+- [x] Toasts, transições de página e animações: [#12](https://github.com/gsxuza/psicologia-acolhedora/pull/12)
 - [x] Redesign: landing [#4](https://github.com/gsxuza/psicologia-acolhedora/pull/4), dashboard [#6](https://github.com/gsxuza/psicologia-acolhedora/pull/6), pacientes e sessões [#7](https://github.com/gsxuza/psicologia-acolhedora/pull/7), ficha [#9](https://github.com/gsxuza/psicologia-acolhedora/pull/9), documentos [#10](https://github.com/gsxuza/psicologia-acolhedora/pull/10), formulário [#11](https://github.com/gsxuza/psicologia-acolhedora/pull/11)
 - [x] Responsividade e navegação inferior no celular: [#8](https://github.com/gsxuza/psicologia-acolhedora/pull/8)
-- [x] Toasts, transições de página e animações: [#12](https://github.com/gsxuza/psicologia-acolhedora/pull/12)
-- [x] Área do paciente: portal, termômetro no dashboard, excluir paciente, lembrete por WhatsApp: [#13](https://github.com/gsxuza/psicologia-acolhedora/pull/13)
-- [x] Correções de segurança e integridade de dados: [#14](https://github.com/gsxuza/psicologia-acolhedora/pull/14)
-- [x] Logo da marca, favicon e ícone da Apple: [#15](https://github.com/gsxuza/psicologia-acolhedora/pull/15), [#16](https://github.com/gsxuza/psicologia-acolhedora/pull/16)
-- [x] Protótipos de botões interativos na landing: [#17](https://github.com/gsxuza/psicologia-acolhedora/pull/17), 17/10
+- [x] Correções de deploy, login e dashboard: [#2](https://github.com/gsxuza/psicologia-acolhedora/pull/2), [#3](https://github.com/gsxuza/psicologia-acolhedora/pull/3), [#5](https://github.com/gsxuza/psicologia-acolhedora/pull/5)
+- [x] Migração do backend, UI/UX e animações: [#1](https://github.com/gsxuza/psicologia-acolhedora/pull/1)
+
+### Scanner Peugeot 2008
+
+- [x] Android Auto ao ligar: não retoma a rádio do multimídia e fica na frente (23/11)
+- [x] Registro de erros: motivo do fechamento na abertura seguinte, com envio pelo WhatsApp (21/11)
+- [x] Versão de transição da chave de assinatura: [#6](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/6), 20/11
+- [x] Gráficos da Saúde voltam a aparecer no painel: [#5](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/5), 20/11
+- [x] Fase 1, resiliência do painel e da nuvem: [#4](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/4), 19/11 ([#3](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/3) foi fechado, substituído pelo #4)
+- [x] Identificação do carro pelo chassi (VIN): [#1](https://github.com/szadil763/Scanner-virtual-peugeut-2008/pull/1), 11/11
+- [x] Painel do multimídia (Combustível, Manutenção, Mapa) e Android Auto sem fio
+- [x] Nuvem: todos os dados do carro sincronizados entre celulares
+- [x] Comando de voz (perguntas, pedidos, rota, rádio e música)
+- [x] Aba Postos com ranking por rendimento do combustível
+- [x] Saúde do carro com gráficos; troca de óleo; falhas dos modos 03 e 07
+- [x] Leitura real pelo ELM327 e consumo por PID 5E, MAF ou MAP com calibração
+
+### Finance Time
+
+- [x] Exportação de transações em CSV (08/09) e botão para ocultar os valores (31/08)
+- [x] Metas, projeção de fluxo de caixa, score de saúde financeira e notificações (25/08)
+- [x] Open Finance pela Pluggy (contas, faturas, categorias)
 
 ### Jogo do Tatu
 
 - [x] Vidas, escudo, personalização por setor e ranking: [#1](https://github.com/gsxuza/jogo-do-tatu/pull/1), 05/08
-- [x] Redesign visual e tela cheia (05/08)
-
-### Prospecção de Clientes
-
-- [x] v0.1: coleta, score, enriquecimento, geração de mensagens, revisão no painel web e funil: [#1](https://github.com/gsxuza/prospec-o-clientes/pull/1), 28/08
-
-### Finance Time
-
-- [x] Open Finance pela Pluggy (contas, faturas, categorias)
-- [x] Metas, projeção de fluxo de caixa e score de saúde financeira (25/08)
-- [x] Central de notificações com alertas financeiros (25/08)
-- [x] Botão para ocultar os valores (31/08) e exportação de transações em CSV (08/09)
-
-### Rose Artesanatos
-
-- [x] Sistema completo: dashboard, pedidos, financeiro, estoque, despacho e equipe (10/06)
-- [x] Migração para Vercel Functions + Supabase, com estado multiusuário (15/07 a 22/07)
-- [x] Login com senha, pedidos agrupados por data e impressão da lista (22/07 a 23/07)
-- [x] Acompanhamento de pedidos cancelados no Mercado Livre, com testes de ponta a ponta (22/08)
-- [x] Importação deixa de perder pedidos (26/08)
 
 ### Ecos de Brumafria
 
@@ -194,61 +146,63 @@ _Entregas tiradas dos PRs mergeados e do histórico de commits._ [PRs com o labe
 
 ### Medley Bot
 
-- [x] v0 do bot do Telegram que monta medleys para dança: Claude ou Gemini, letra com horários, contagem de 8, transições, separação de voz (Demucs), Docker e atalho para Windows (19/11)
+- [x] v0 do bot do Telegram que monta medleys para dança (19/11)
 
 ### Solo Desk (Inventário)
 
-- [x] Saída do Base44 para Vite + React + Supabase na Vercel, com módulos de Parafusos e Ferramentas
+- [x] Saída do Base44 para Vite + React + Supabase na Vercel, com Parafusos e Ferramentas
 
 ### Coração, Lar e Propósito
 
-- [x] Site com área administrativa (eventos, clube do livro, mentoria, posts, parcerias, depoimentos) no Base44 (atualizado em 13/11)
+- [x] Site com área administrativa no Base44 (atualizado em 13/11)
 
 ### LifeOS RPG
 
-- [x] App no Base44: dashboard, pessoal, profissional (com kanban), finanças e onboarding
+- [x] App no Base44: pessoal, profissional (com kanban), finanças e onboarding
 
 ### PizzariaFlow
 
-- [x] App no Base44: cardápio, checkout, cozinha, painel do entregador, rastreio e administração
+- [x] App no Base44: cardápio, checkout, cozinha, entregador, rastreio e administração
 
 ### BarberFlow Elite
 
-- [x] App no Base44: agenda, recepção, clientes, comissões, caixa, fidelidade e relatórios
+- [x] App no Base44: agenda, recepção, comissões, caixa, fidelidade e relatórios
 
 ### Portfólios e perfil
 
+- [x] Kanban geral e GitHub Project (25/11)
 - [x] Portfólio comercial [gsxuza.github.io](https://github.com/gsxuza/gsxuza.github.io) e técnico [dev](https://github.com/gsxuza/dev) (28/06)
-- [x] README do perfil atualizado (12/10)
+
+## 🗄️ Encerrados
+
+Projetos que saíram do quadro em 25/11/2026. Os cartões abertos deles foram fechados com um comentário explicando o motivo.
+
+| Projeto | Decisão | Situação |
+|---|---|---|
+| [Rose Artesanatos](https://github.com/gsxuza/rose-artesanatos-sistema) | Arquivar | arquivado |
+| [Controle de Consumíveis](https://github.com/gsxuza/Controle-consumiveis-) | Arquivar | arquivado |
+| [Prospecção de Clientes](https://github.com/gsxuza/prospec-o-clientes) | Arquivar | **falta arquivar** |
+| [Bot Validação Pix](https://github.com/gsxuza/bot-validacao-pix) | Arquivar | **falta arquivar** |
+| [Rose Artesanatos v2](https://github.com/gsxuza/sistema-operacional-Rose-Artesanatos-v2) | Excluir | **falta excluir** |
+
+Para concluir (PowerShell, com o `gh` na conta gsxuza):
+
+```powershell
+gh repo archive gsxuza/prospec-o-clientes --yes
+```
+
+```powershell
+gh repo archive gsxuza/bot-validacao-pix --yes
+```
+
+```powershell
+gh repo delete gsxuza/sistema-operacional-Rose-Artesanatos-v2 --yes
+```
+
+Excluir pede a permissão `delete_repo` uma vez: `gh auth refresh -h github.com -s delete_repo`.
 
 ---
 
 ### Quadro no GitHub Projects
 
-Os scripts em [`scripts/`](scripts/) criam o project **Kanban dos projetos** com as colunas Backlog, Em andamento, Em revisão e Concluídas, um campo **Projeto** e todos os cartões já na coluna certa. Precisam do [GitHub CLI](https://cli.github.com) logado na conta gsxuza com permissão de projects:
-
-```bash
-gh auth login -h github.com -s project -w
-```
-
-**Windows (PowerShell):**
-
-```powershell
-curl.exe -fsSLO https://raw.githubusercontent.com/gsxuza/gsxuza/main/scripts/criar-project.ps1
-```
-
-```powershell
-powershell -ExecutionPolicy Bypass -File .\criar-project.ps1
-```
-
-**Linux, Mac ou Git Bash:**
-
-```bash
-curl -fsSLO https://raw.githubusercontent.com/gsxuza/gsxuza/main/scripts/criar-project.sh
-```
-
-```bash
-bash criar-project.sh
-```
-
-No fim, ele mostra o link do project e os 3 cliques para trocar a visualização para quadro (Layout > Board).
+Os scripts em [`scripts/`](scripts/) criaram o project **Kanban dos projetos** com as colunas Backlog, Em andamento, Em revisão e Concluídas e um campo **Projeto**. Cartões novos entram no project pelo botão **+ Add item** (cole o link da issue) ou pela automação *Auto-add* em Workflows.
