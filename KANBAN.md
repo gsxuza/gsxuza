@@ -225,11 +225,23 @@ _Entregas tiradas dos PRs mergeados e do histórico de commits._ [PRs com o labe
 
 ### Quadro no GitHub Projects
 
-O script [`scripts/criar-project.sh`](scripts/criar-project.sh) cria o project **Kanban dos projetos** com as colunas Backlog, Em andamento, Em revisão e Concluídas, um campo **Projeto** e todos os cartões já na coluna certa. Rode no seu computador (no Windows, pelo Git Bash), com o [GitHub CLI](https://cli.github.com) logado:
+Os scripts em [`scripts/`](scripts/) criam o project **Kanban dos projetos** com as colunas Backlog, Em andamento, Em revisão e Concluídas, um campo **Projeto** e todos os cartões já na coluna certa. Precisam do [GitHub CLI](https://cli.github.com) logado na conta gsxuza com permissão de projects:
 
 ```bash
-gh auth refresh -s project
+gh auth login -h github.com -s project -w
 ```
+
+**Windows (PowerShell):**
+
+```powershell
+curl.exe -fsSLO https://raw.githubusercontent.com/gsxuza/gsxuza/main/scripts/criar-project.ps1
+```
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\criar-project.ps1
+```
+
+**Linux, Mac ou Git Bash:**
 
 ```bash
 curl -fsSLO https://raw.githubusercontent.com/gsxuza/gsxuza/main/scripts/criar-project.sh
