@@ -21,6 +21,8 @@ die() { echo "ERRO: $*" >&2; exit 1; }
 cr() { tr -d '\r'; }
 
 command -v gh >/dev/null 2>&1 || die "GitHub CLI não encontrado. Instale em https://cli.github.com"
+LOGIN="$(gh api user --jq .login </dev/null 2>/dev/null | cr || true)"
+[ "$LOGIN" = "$OWNER" ] || die "o gh está usando a conta \"${LOGIN:-nenhuma}\", não a $OWNER. Rode: gh auth login -s project -w (entrando como $OWNER no navegador) ou gh auth switch -u $OWNER"
 gh project list --owner "$OWNER" --limit 1 </dev/null >/dev/null 2>&1 \
   || die "sem permissão para projects. Rode: gh auth refresh -s project"
 
