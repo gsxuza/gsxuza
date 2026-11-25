@@ -223,9 +223,20 @@ _Entregas tiradas dos PRs mergeados e do histórico de commits._ [PRs com o labe
 
 ---
 
-### Como montar o quadro visual no GitHub Projects
+### Quadro no GitHub Projects
 
-1. Em [github.com/gsxuza?tab=projects](https://github.com/gsxuza?tab=projects), clique em **New project** e escolha **Board**.
-2. No campo **Status**, crie as colunas *Backlog*, *Em andamento*, *Em revisão* e *Concluídas*.
-3. Clique em **+ Add item**, cole o link de busca de cada coluna (os números da tabela no topo) ou digite `#` e escolha o repositório para adicionar as issues, e arraste cada uma para a coluna do seu label.
-4. Em **Workflows**, ligue *Item closed → Concluídas* e *Pull request merged → Concluídas*.
+O script [`scripts/criar-project.sh`](scripts/criar-project.sh) cria o project **Kanban dos projetos** com as colunas Backlog, Em andamento, Em revisão e Concluídas, um campo **Projeto** e todos os cartões já na coluna certa. Rode no seu computador (no Windows, pelo Git Bash), com o [GitHub CLI](https://cli.github.com) logado:
+
+```bash
+gh auth refresh -s project
+```
+
+```bash
+curl -fsSLO https://raw.githubusercontent.com/gsxuza/gsxuza/main/scripts/criar-project.sh
+```
+
+```bash
+bash criar-project.sh
+```
+
+No fim, ele mostra o link do project e os 3 cliques para trocar a visualização para quadro (Layout > Board).
